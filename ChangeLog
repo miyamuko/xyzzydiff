@@ -1,0 +1,11 @@
+2005-09-08  MIYAMUKO Katsuyuki
+
+	* diff-command-line: ファイルを相対パスで指定しても動くようにした。
+
+	* diff-command-line: -wait を指定できるようにした。
+	TortoiseCVS の merge application に指定するには
+	-wait "%mine" "%yours" を設定すればよい。
+
+2004-08-09  MIYAMUKO Katsuyuki
+
+	* 初期リリース
