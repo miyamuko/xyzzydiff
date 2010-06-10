@@ -1,11 +1,11 @@
 2005-09-08  MIYAMUKO Katsuyuki
 
-	* diff-command-line: ƒtƒ@ƒCƒ‹‚ğ‘Š‘ÎƒpƒX‚Åw’è‚µ‚Ä‚à“®‚­‚æ‚¤‚É‚µ‚½B
+	* diff-command-line: ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç›¸å¯¾ãƒ‘ã‚¹ã§æŒ‡å®šã—ã¦ã‚‚å‹•ãã‚ˆã†ã«ã—ãŸã€‚
 
-	* diff-command-line: -wait ‚ğw’è‚Å‚«‚é‚æ‚¤‚É‚µ‚½B
-	TortoiseCVS ‚Ì merge application ‚Éw’è‚·‚é‚É‚Í
-	-wait "%mine" "%yours" ‚ğİ’è‚·‚ê‚Î‚æ‚¢B
+	* diff-command-line: -wait ã‚’æŒ‡å®šã§ãã‚‹ã‚ˆã†ã«ã—ãŸã€‚
+	TortoiseCVS ã® merge application ã«æŒ‡å®šã™ã‚‹ã«ã¯
+	-wait "%mine" "%yours" ã‚’è¨­å®šã™ã‚Œã°ã‚ˆã„ã€‚
 
 2004-08-09  MIYAMUKO Katsuyuki
 
-	* ‰ŠúƒŠƒŠ[ƒX
+	* åˆæœŸãƒªãƒªãƒ¼ã‚¹
